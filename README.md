@@ -1,2 +1,5 @@
-# documentation-odoo-v13
-My Doc Journals
+# Model
+
+# model.Models
+
+# model.TransientModel
